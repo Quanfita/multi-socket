@@ -1,2 +1,2 @@
 # multi-socket
- A multi-portTCP communication server and client
+ A client and server scaffolding for different connection methods using socket programming.
